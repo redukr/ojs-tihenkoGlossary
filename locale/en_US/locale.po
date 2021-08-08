@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T11:05:13+00:00\n"
+"PO-Revision-Date: 2019-11-19T11:05:13+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.tihenkoGlossary.displayName"
+msgstr "Glossary plugin"
+
+msgid "plugins.generic.tihenkoGlossary.description"
+msgstr "Provides support for displaying a glossary of terms"
+
+msgid "plugins.generic.tihenkoGlossary.secretKey"
+msgstr "Set a unique key for term data base generation"
+
+msgid "plugins.generic.tihenkoGlossary.scriptgenerated"
+msgstr "Glossary script generated for languages:"
+
+msgid "plugins.generic.tihenkoGlossary.withkey"
+msgstr "with unique key:"
+
+msgid "plugins.generic.tihenkoGlossary.newWord"
+msgstr "New word"
+
+msgid "plugins.generic.tihenkoGlossary.meaning"
+msgstr "Meaning"
+
+msgid "plugins.generic.tihenkoGlossary.insert" 
+msgstr "Insert"
+
+msgid "plugins.generic.tihenkoGlossary.update" 
+msgstr "Update"
+
+msgid "plugins.generic.tihenkoGlossary.delete" 
+msgstr "Delete"
+
+msgid "plugins.generic.tihenkoGlossary.inserted" 
+msgstr "inserted"
+
+msgid "plugins.generic.tihenkoGlossary.updated" 
+msgstr "updated"
+
+msgid "plugins.generic.tihenkoGlossary.deleted" 
+msgstr "deleted"
+
+msgid "plugins.generic.tihenkoGlossary.renewjs" 
+msgstr "Renew JS DB"
+
+msgid "plugins.generic.tihenkoGlossary.synonym" 
+msgstr "Synonym"
+
+msgid "plugins.generic.tihenkoGlossary.FindWord"
+msgstr "Find word" 
+
+msgid "plugins.generic.tihenkoGlossary.next"
+msgstr "Next->" 
+
+msgid "plugins.generic.tihenkoGlossary.back"
+msgstr "<-Back" 
+
+msgid "plugins.generic.tihenkoGlossary.readNext"
+msgstr "Continue reading"
+
+msgid "plugins.generic.tihenkoGlossary.help"
+msgstr "Welcome to <b>Glossary</b>" 

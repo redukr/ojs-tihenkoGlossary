@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plugin_settings SYSTEM "../../../lib/pkp/dtd/pluginSettings.dtd">
+
+
+<plugin_settings>
+
+	<setting type="string">
+		<name>secretKey</name>
+		<value>Hello word!</value>
+	</setting>
+	<setting type="bool">
+		<name>jsDBstatus</name>
+		<value>true</value>
+	</setting>
+</plugin_settings>

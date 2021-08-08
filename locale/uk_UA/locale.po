@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T11:05:13+00:00\n"
+"PO-Revision-Date: 2019-11-19T11:05:13+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.tihenkoGlossary.displayName"
+msgstr "Глосарій термінів"
+
+msgid "plugins.generic.tihenkoGlossary.description"
+msgstr "Забезпечує підтримку відображення глосарію термінів"
+
+msgid "plugins.generic.tihenkoGlossary.secretKey"
+msgstr "Задайте унікальний ключ генерації бази термінів"
+
+msgid "plugins.generic.tihenkoGlossary.scriptgenerated"
+msgstr "Скрипт глосарія згенерирований для мов:"
+
+msgid "plugins.generic.tihenkoGlossary.withkey"
+msgstr "с унікальним ключем:"
+
+msgid "plugins.generic.tihenkoGlossary.newWord"
+msgstr "Нове слово"
+
+msgid "plugins.generic.tihenkoGlossary.meaning"
+msgstr "Значення"
+
+msgid "plugins.generic.tihenkoGlossary.insert" 
+msgstr "Додати"
+
+msgid "plugins.generic.tihenkoGlossary.update" 
+msgstr "Оновити"
+
+msgid "plugins.generic.tihenkoGlossary.delete" 
+msgstr "Видалити"
+
+msgid "plugins.generic.tihenkoGlossary.inserted" 
+msgstr "додано"
+
+msgid "plugins.generic.tihenkoGlossary.updated" 
+msgstr "оновлено"
+
+msgid "plugins.generic.tihenkoGlossary.deleted" 
+msgstr "видалено"
+
+msgid "plugins.generic.tihenkoGlossary.renewjs" 
+msgstr "Оновити базу JS"
+
+msgid "plugins.generic.tihenkoGlossary.synonym" 
+msgstr "Синонім"
+
+msgid "plugins.generic.tihenkoGlossary.FindWord"
+msgstr "Шукати слово" 
+
+msgid "plugins.generic.tihenkoGlossary.next"
+msgstr "Далі->" 
+
+msgid "plugins.generic.tihenkoGlossary.back"
+msgstr "<-Назад" 
+
+msgid "plugins.generic.tihenkoGlossary.readNext"
+msgstr "Читати далі" 
+
+msgid "plugins.generic.tihenkoGlossary.help"
+msgstr "Вітаємо у розділі <b>Глосарій термінів</b>" 

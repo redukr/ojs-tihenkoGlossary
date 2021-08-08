@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE schema SYSTEM "../../../lib/pkp/dtd/xmlSchema.dtd">
+
+
+<schema version="0.2">
+
+	<table name="glossary">
+		<field name="id" type="I8">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="lang" type="C2" size="10">
+			<NOTNULL/>
+		</field>
+		<field name="word" type="C2" size="150">
+			<NOTNULL/>
+		</field>
+                <field name="wordtrans" type="C2" size="150">
+			<NOTNULL/>
+		</field>
+		<field name="meaning" type="C2" size="2000">
+			<NOTNULL/>
+		</field>
+		<field name="synonymid" type="I8">
+			<NULL/>
+		</field>
+                <field name="datetimeupdate" type="T">
+			<NOTNULL/>
+		</field>
+		<descr>glossary table</descr>
+	</table>
+
+</schema>
